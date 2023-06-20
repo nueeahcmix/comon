@@ -1,4 +1,4 @@
-# COM:ON 프로젝트
+# COM:ON 프로젝트 (http://com0n.com/)
 
 ## 홈페이지 공지사항 게시판
 
